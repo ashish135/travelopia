@@ -1,2 +1,24 @@
-# travelopia
-Full width Component
+# Webpack dynamic auto responsive Hero Banner
+JS component based Full width and height hero banner using webpacks and picture source srcset and image src. Fully javascript and custom CSS.
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- WebPacks
+ - CSS Loader
+ - Style Loader
+ - Bable Loader
+
+ ## Setup and Installation
+- git clone https://github.com/ashish135/travelopia.git
+- npm install
+- npm run dev
+
+## Components
+- Components list
+ - Header
+ - Main
+  - Banner
+  - Hero Text
+ - Footer 
