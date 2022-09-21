@@ -8,6 +8,9 @@ header {
     height: 60px;
     background: #ffffff;
 }
+a{
+    color: #000000;
+}
 .container {
     max-width: 1300px;
     margin: 0 auto;

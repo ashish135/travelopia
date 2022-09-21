@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="./src/images/preview.jpg">
+</div>
+
 # Webpack dynamic auto responsive Hero Banner
 JS component based Full width and height hero banner using webpacks and picture source srcset and image src. Fully javascript and custom CSS.
 
