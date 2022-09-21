@@ -1,0 +1,2 @@
+# travelopia
+Full width Component
